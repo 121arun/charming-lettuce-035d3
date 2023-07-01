@@ -14,7 +14,7 @@ sections:
     image:
       src: /images/fpo-shapes.png
       alt: Stackbit Shapes
-    theme: imgRight
+    theme: imgLeft
   - type: stats
     heading: Don't take our word for it
     body: Look at these amazing numbers!
