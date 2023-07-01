@@ -3,7 +3,7 @@ title: Home Page
 type: page
 sections:
   - type: hero
-    heading: Hey
+    heading: "Hey \U0001F44B,"
     body: >
       And a super compelling supporting paragraph that makes the user
       immediately want to click the button below.
