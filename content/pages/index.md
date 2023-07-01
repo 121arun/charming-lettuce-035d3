@@ -3,7 +3,7 @@ title: Home Page
 type: page
 sections:
   - type: hero
-    heading: This is your main value proposition
+    heading: This is your main value propositionThis is your main value proposition
     body: >
       And a super compelling supporting paragraph that makes the user
       immediately want to click the button below.
