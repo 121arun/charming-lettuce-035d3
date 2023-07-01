@@ -9,9 +9,6 @@ sections:
       label: Get Started
       url: /
       theme: outline
-    image:
-      src: /images/fpo-shapes.png
-      alt: Stackbit Shapes
     theme: imgLeft
   - type: stats
     heading: Don't take our word for it
