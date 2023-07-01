@@ -5,10 +5,6 @@ sections:
   - type: hero
     heading: ''
     body: ''
-    button:
-      label: Get Started
-      url: /
-      theme: outline
     theme: imgLeft
   - type: stats
     heading: Don't take our word for it
