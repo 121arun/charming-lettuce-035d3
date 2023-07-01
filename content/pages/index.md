@@ -4,9 +4,7 @@ type: page
 sections:
   - type: hero
     heading: ''
-    body: >
-      And a super compelling supporting paragraph that makes the user
-      immediately want to click the button below.
+    body: ''
     button:
       label: Get Started
       url: /
