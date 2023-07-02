@@ -24,7 +24,6 @@ export default defineStackbitConfig({
   ],
 })
 
-
 export default {
   sidebarButtons: [
     {
