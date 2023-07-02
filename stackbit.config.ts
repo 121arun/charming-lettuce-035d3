@@ -29,6 +29,8 @@ export default defineStackbitConfig({
       icon: 'tools',
       modelName: 'GlobalStylesConfig',
     },
+
+    
   ],
 
 
