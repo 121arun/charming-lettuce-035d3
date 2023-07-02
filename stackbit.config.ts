@@ -35,3 +35,5 @@ export default defineStackbitConfig({
 
 
 })
+
+export default sbConfig
