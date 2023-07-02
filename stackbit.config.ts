@@ -22,6 +22,13 @@ export default defineStackbitConfig({
       }
     }),
   ],
+  sidebarButtons: [
+    {
+      type: 'model',
+      label: 'Global styles',
+      icon: 'style',
+      modelName: 'GlobalStylesConfig',
+    },
+  ],
 
-  
 })
