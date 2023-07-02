@@ -18,6 +18,6 @@ sections:
       type: button
       label: Get Started
       url: /
-      theme: outline
+      theme: default
     theme: imgRight
 ---
