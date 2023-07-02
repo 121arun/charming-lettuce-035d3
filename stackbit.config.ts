@@ -4,7 +4,6 @@ import { button } from './.stackbit/models/button'
 import { hero } from './.stackbit/models/hero'
 import { page } from './.stackbit/models/page'
 import { stats } from './.stackbit/models/stats'
-import { GlobalStyles } from './.stackbit/models/ThemeStyle'
 
 export default defineStackbitConfig({
   stackbitVersion: '~0.6.0',
