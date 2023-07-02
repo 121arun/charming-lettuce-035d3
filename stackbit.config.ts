@@ -23,14 +23,3 @@ export default defineStackbitConfig({
     }),
   ],
 })
-
-export default {
-  sidebarButtons: [
-    {
-      label: 'Site management',
-      type: 'model',
-      icon: 'tools',
-      modelName: 'SiteConfig',
-    },
-  ],
-}
